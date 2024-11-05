@@ -1,0 +1,10 @@
+[
+{
+    "model": "testapp.fernetbinarymodel",
+    "pk": 1,
+    "fields": {
+        "nullable": "4+NJWeDrTbDG6TUyjXHCO2dBQUFBQUJuRzItLWNTSVBsT2Jfckp6V1h2amZXUmpVNkJNYm5iNU9RZHFtWXVNdDNiY1hGYUtXbWFNM0YzQnc0Vk53bDhkNHpPcXAtWm1Rb1hleVd3YTY4UjV5S245RG13PT0=",
+        "not_nullable": "DAGRX8P9w6ERwQcAkxkGKGdBQUFBQUJuRzJfSk50amJSVWhCMGQxaXVwbmFRN19qUmJid0hYTm1UU1ViV0VaWktjMlRud19uNl81b1NReHNJdllqalI1WnNHREVnMWpmZkd4TTA2V05tTjB4Y2tGS25BPT0="
+    }
+}
+]
