@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies and package
         run: |
           pip install -U pip
+          pip install setuptools wheel twine
           pip install -r requirements.txt
 
       - name: Build source and binary distribution package
